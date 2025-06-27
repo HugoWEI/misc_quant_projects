@@ -1,0 +1,1 @@
+D:\Users\hugow\Documents\1_CTOF\2025-2026\ CS\ FINANCE\Projects\misc_quant_projects\learning_rust\guessing_game\target\debug\guessing_game.exe: D:\Users\hugow\Documents\1_CTOF\2025-2026\ CS\ FINANCE\Projects\misc_quant_projects\learning_rust\guessing_game\src\main.rs
